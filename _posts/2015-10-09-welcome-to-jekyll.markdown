@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "联系方式"
 date:   2015-10-09 15:39:40
-preview: http://placehold.it/300x300
+preview: ../assets/blog_images/4.jpg
 ---
 
 ![Picture 1](http://placehold.it/800x600)
