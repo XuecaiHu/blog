@@ -13,7 +13,7 @@ github_username:  XuecaiHu
 # Build settings
 markdown: kramdown
 permalink: pretty
-safe:false
-pygments:true
-excerpt_separrator:"\n\n\n"
-paginate:5
+safe: false
+pygments: true
+excerpt_separrator: "\n\n\n"
+paginate: 5
