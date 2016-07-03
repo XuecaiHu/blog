@@ -1,10 +1,10 @@
 ---
 title:  "welcome to beijing!"
-subtitle: "runing"
+subtitle: "running"
 author: "huxc"
 avatar: "img/authors/huxc.jpg"
 image: "img/f.jpg"
-date:   2015-04-25 12:12:12
+date:   2016-07-03 12:12:12
 ---
 
 ### Dolor sit amet?
